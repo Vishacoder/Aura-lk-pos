@@ -1,0 +1,12 @@
+D:\vishwa software\Aura pos\Aura lk pos\Aura lk pos\bin\Debug\Aura lk pos.exe.config
+D:\vishwa software\Aura pos\Aura lk pos\Aura lk pos\bin\Debug\Aura lk pos.exe
+D:\vishwa software\Aura pos\Aura lk pos\Aura lk pos\bin\Debug\Aura lk pos.pdb
+D:\vishwa software\Aura pos\Aura lk pos\Aura lk pos\bin\Debug\Guna.UI2.dll
+D:\vishwa software\Aura pos\Aura lk pos\Aura lk pos\obj\Debug\Aura lk pos.csproj.AssemblyReference.cache
+D:\vishwa software\Aura pos\Aura lk pos\Aura lk pos\obj\Debug\Aura_lk_pos.Form1.resources
+D:\vishwa software\Aura pos\Aura lk pos\Aura lk pos\obj\Debug\Aura_lk_pos.Properties.Resources.resources
+D:\vishwa software\Aura pos\Aura lk pos\Aura lk pos\obj\Debug\Aura lk pos.csproj.GenerateResource.cache
+D:\vishwa software\Aura pos\Aura lk pos\Aura lk pos\obj\Debug\Aura lk pos.csproj.CoreCompileInputs.cache
+D:\vishwa software\Aura pos\Aura lk pos\Aura lk pos\obj\Debug\Aura lk pos.csproj.CopyComplete
+D:\vishwa software\Aura pos\Aura lk pos\Aura lk pos\obj\Debug\Aura lk pos.exe
+D:\vishwa software\Aura pos\Aura lk pos\Aura lk pos\obj\Debug\Aura lk pos.pdb
