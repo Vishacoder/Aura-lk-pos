@@ -10,20 +10,11 @@ using System.Windows.Forms;
 
 namespace Aura_lk_pos
 {
-    public partial class Form1 : Form
+    public partial class homePage : Form
     {
-        public Form1()
+        public homePage()
         {
             InitializeComponent();
-        }
-
-        private void btnLogin_Click(object sender, EventArgs e)
-        {
-            homePage home = new homePage();
- 
-            home.Show();
-
-            this.Hide();
         }
     }
 }
