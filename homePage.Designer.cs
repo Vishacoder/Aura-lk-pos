@@ -32,8 +32,9 @@
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
             this.guna2ImageButton1 = new Guna.UI2.WinForms.Guna2ImageButton();
             this.guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
-            this.btnHome = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
+            this.btnHome = new Guna.UI2.WinForms.Guna2Button();
+            this.guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Panel1.SuspendLayout();
             this.guna2Panel2.SuspendLayout();
             this.SuspendLayout();
@@ -67,6 +68,7 @@
             // guna2Panel2
             // 
             this.guna2Panel2.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.guna2Panel2.Controls.Add(this.guna2Button2);
             this.guna2Panel2.Controls.Add(this.guna2Button1);
             this.guna2Panel2.Controls.Add(this.btnHome);
             this.guna2Panel2.Dock = System.Windows.Forms.DockStyle.Left;
@@ -74,6 +76,28 @@
             this.guna2Panel2.Name = "guna2Panel2";
             this.guna2Panel2.Size = new System.Drawing.Size(250, 637);
             this.guna2Panel2.TabIndex = 1;
+            // 
+            // guna2Button1
+            // 
+            this.guna2Button1.CheckedState.FillColor = System.Drawing.Color.LightSteelBlue;
+            this.guna2Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.guna2Button1.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.guna2Button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.guna2Button1.ForeColor = System.Drawing.Color.DimGray;
+            this.guna2Button1.HoverState.FillColor = System.Drawing.Color.Silver;
+            this.guna2Button1.Image = global::Aura_lk_pos.Properties.Resources.home;
+            this.guna2Button1.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.guna2Button1.ImageOffset = new System.Drawing.Point(20, 0);
+            this.guna2Button1.Location = new System.Drawing.Point(3, 93);
+            this.guna2Button1.Name = "guna2Button1";
+            this.guna2Button1.PressedColor = System.Drawing.Color.RoyalBlue;
+            this.guna2Button1.PressedDepth = 50;
+            this.guna2Button1.Size = new System.Drawing.Size(244, 45);
+            this.guna2Button1.TabIndex = 1;
+            this.guna2Button1.Text = "Home";
             // 
             // btnHome
             // 
@@ -97,27 +121,27 @@
             this.btnHome.TabIndex = 0;
             this.btnHome.Text = "Home";
             // 
-            // guna2Button1
+            // guna2Button2
             // 
-            this.guna2Button1.CheckedState.FillColor = System.Drawing.Color.LightSteelBlue;
-            this.guna2Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button1.FillColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2Button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.guna2Button1.ForeColor = System.Drawing.Color.DimGray;
-            this.guna2Button1.HoverState.FillColor = System.Drawing.Color.Silver;
-            this.guna2Button1.Image = global::Aura_lk_pos.Properties.Resources.home;
-            this.guna2Button1.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.guna2Button1.ImageOffset = new System.Drawing.Point(20, 0);
-            this.guna2Button1.Location = new System.Drawing.Point(3, 93);
-            this.guna2Button1.Name = "guna2Button1";
-            this.guna2Button1.PressedColor = System.Drawing.Color.RoyalBlue;
-            this.guna2Button1.PressedDepth = 50;
-            this.guna2Button1.Size = new System.Drawing.Size(244, 45);
-            this.guna2Button1.TabIndex = 1;
-            this.guna2Button1.Text = "Home";
+            this.guna2Button2.CheckedState.FillColor = System.Drawing.Color.LightSteelBlue;
+            this.guna2Button2.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button2.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2Button2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.guna2Button2.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.guna2Button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.guna2Button2.ForeColor = System.Drawing.Color.DimGray;
+            this.guna2Button2.HoverState.FillColor = System.Drawing.Color.Silver;
+            this.guna2Button2.Image = global::Aura_lk_pos.Properties.Resources.home;
+            this.guna2Button2.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.guna2Button2.ImageOffset = new System.Drawing.Point(20, 0);
+            this.guna2Button2.Location = new System.Drawing.Point(4, 144);
+            this.guna2Button2.Name = "guna2Button2";
+            this.guna2Button2.PressedColor = System.Drawing.Color.RoyalBlue;
+            this.guna2Button2.PressedDepth = 50;
+            this.guna2Button2.Size = new System.Drawing.Size(244, 45);
+            this.guna2Button2.TabIndex = 2;
+            this.guna2Button2.Text = "Home";
             // 
             // homePage
             // 
@@ -144,5 +168,6 @@
         private Guna.UI2.WinForms.Guna2Panel guna2Panel2;
         private Guna.UI2.WinForms.Guna2Button btnHome;
         private Guna.UI2.WinForms.Guna2Button guna2Button1;
+        private Guna.UI2.WinForms.Guna2Button guna2Button2;
     }
 }
