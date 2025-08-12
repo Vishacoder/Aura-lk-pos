@@ -10,3 +10,4 @@ D:\vishwa software\Aura pos\Aura lk pos\Aura lk pos\obj\Debug\Aura lk pos.csproj
 D:\vishwa software\Aura pos\Aura lk pos\Aura lk pos\obj\Debug\Aura lk pos.csproj.CopyComplete
 D:\vishwa software\Aura pos\Aura lk pos\Aura lk pos\obj\Debug\Aura lk pos.exe
 D:\vishwa software\Aura pos\Aura lk pos\Aura lk pos\obj\Debug\Aura lk pos.pdb
+D:\vishwa software\Aura pos\Aura lk pos\Aura lk pos\obj\Debug\Aura_lk_pos.homePage.resources
